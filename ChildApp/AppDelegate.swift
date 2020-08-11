@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-      GMSServices.provideAPIKey("AIzaSyB086ejostox4c_Z6GxnRdMU-fKaTl-hYg")
+      GMSServices.provideAPIKey("AIzaSyDZm96WOdOicEbHI1osU45AgBNru-BIElA")
         FirebaseApp.configure()
         IQKeyboardManager.shared.enable = true
 
