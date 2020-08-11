@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871678575392-i86p2m7hv5chi7p8uaj71qjtaiip5p92.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871678575392-i86p2m7hv5chi7p8uaj71qjtaiip5p92</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAI2eBCsG3jphbS3KSm2b1lzldCc-Wv98</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871678575392</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Test.ChildApp</string>
+	<key>PROJECT_ID</key>
+	<string>parent-childapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parent-childapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871678575392:ios:e55fdb3dfd371b95280d45</string>
+	<key>DATABASE_URL</key>
+	<string>https://parent-childapp.firebaseio.com</string>
+</dict>
+</plist>
